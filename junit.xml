@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="" tests="6" assertions="6" errors="0" warnings="0" failures="0" skipped="0" time="0.005175">
+    <testsuite name="ListaNumerica Tests" tests="6" assertions="6" errors="0" warnings="0" failures="0" skipped="0" time="0.005175">
+      <testsuite name="ListaNumericaTest" file="C:\Users\cg3010252\Documents\PHPProjects\ENGA5\tests\ListaNumericaTest.php" tests="6" assertions="6" errors="0" warnings="0" failures="0" skipped="0" time="0.005175">
+        <testsuite name="ListaNumericaTest::testQuantidadeDeValores" tests="3" assertions="3" errors="0" warnings="0" failures="0" skipped="0" time="0.004990">
+          <testcase name="testQuantidadeDeValores with data set &quot;Quantidade vazia&quot;" class="ListaNumericaTest" classname="ListaNumericaTest" file="C:\Users\cg3010252\Documents\PHPProjects\ENGA5\tests\ListaNumericaTest.php" line="12" assertions="1" time="0.004907"/>
+          <testcase name="testQuantidadeDeValores with data set &quot;Quantidade menor que 4&quot;" class="ListaNumericaTest" classname="ListaNumericaTest" file="C:\Users\cg3010252\Documents\PHPProjects\ENGA5\tests\ListaNumericaTest.php" line="12" assertions="1" time="0.000044"/>
+          <testcase name="testQuantidadeDeValores with data set &quot;Quantidade e intervalo valido&quot;" class="ListaNumericaTest" classname="ListaNumericaTest" file="C:\Users\cg3010252\Documents\PHPProjects\ENGA5\tests\ListaNumericaTest.php" line="12" assertions="1" time="0.000039"/>
+        </testsuite>
+        <testsuite name="ListaNumericaTest::testValores" tests="3" assertions="3" errors="0" warnings="0" failures="0" skipped="0" time="0.000185">
+          <testcase name="testValores with data set &quot;Quantidade vazia&quot;" class="ListaNumericaTest" classname="ListaNumericaTest" file="C:\Users\cg3010252\Documents\PHPProjects\ENGA5\tests\ListaNumericaTest.php" line="23" assertions="1" time="0.000115"/>
+          <testcase name="testValores with data set &quot;Valor menor que 10000&quot;" class="ListaNumericaTest" classname="ListaNumericaTest" file="C:\Users\cg3010252\Documents\PHPProjects\ENGA5\tests\ListaNumericaTest.php" line="23" assertions="1" time="0.000033"/>
+          <testcase name="testValores with data set &quot;Uma letra&quot;" class="ListaNumericaTest" classname="ListaNumericaTest" file="C:\Users\cg3010252\Documents\PHPProjects\ENGA5\tests\ListaNumericaTest.php" line="23" assertions="1" time="0.000037"/>
+        </testsuite>
+      </testsuite>
+    </testsuite>
+  </testsuite>
+</testsuites>

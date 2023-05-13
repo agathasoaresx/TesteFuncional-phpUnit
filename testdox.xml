@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tests>
+  <test className="ListaNumericaTest" methodName="testQuantidadeDeValores with data set &quot;Quantidade vazia&quot;" prettifiedClassName="Lista Numerica" prettifiedMethodName="Quantidade de valores with data set &quot;Quantidade vazia&quot;" status="0" time="0.0049069" size="-1" groups="default">
+    <group name="default"/>
+  </test>
+  <test className="ListaNumericaTest" methodName="testQuantidadeDeValores with data set &quot;Quantidade menor que 4&quot;" prettifiedClassName="Lista Numerica" prettifiedMethodName="Quantidade de valores with data set &quot;Quantidade menor que 4&quot;" status="0" time="4.45E-5" size="-1" groups="default">
+    <group name="default"/>
+  </test>
+  <test className="ListaNumericaTest" methodName="testQuantidadeDeValores with data set &quot;Quantidade e intervalo valido&quot;" prettifiedClassName="Lista Numerica" prettifiedMethodName="Quantidade de valores with data set &quot;Quantidade e intervalo valido&quot;" status="0" time="3.9E-5" size="-1" groups="default">
+    <group name="default"/>
+  </test>
+  <test className="ListaNumericaTest" methodName="testValores with data set &quot;Quantidade vazia&quot;" prettifiedClassName="Lista Numerica" prettifiedMethodName="Valores with data set &quot;Quantidade vazia&quot;" status="0" time="0.0001154" size="-1" groups="default">
+    <group name="default"/>
+  </test>
+  <test className="ListaNumericaTest" methodName="testValores with data set &quot;Valor menor que 10000&quot;" prettifiedClassName="Lista Numerica" prettifiedMethodName="Valores with data set &quot;Valor menor que 10000&quot;" status="0" time="3.3E-5" size="-1" groups="default">
+    <group name="default"/>
+  </test>
+  <test className="ListaNumericaTest" methodName="testValores with data set &quot;Uma letra&quot;" prettifiedClassName="Lista Numerica" prettifiedMethodName="Valores with data set &quot;Uma letra&quot;" status="0" time="3.66E-5" size="-1" groups="default">
+    <group name="default"/>
+  </test>
+</tests>

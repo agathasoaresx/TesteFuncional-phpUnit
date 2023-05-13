@@ -1,0 +1,8 @@
+Lista Numerica
+ [x] Quantidade de valores with data set "Quantidade vazia"
+ [x] Quantidade de valores with data set "Quantidade menor que 4"
+ [x] Quantidade de valores with data set "Quantidade e intervalo valido"
+ [x] Valores with data set "Quantidade vazia"
+ [x] Valores with data set "Valor menor que 10000"
+ [x] Valores with data set "Uma letra"
+

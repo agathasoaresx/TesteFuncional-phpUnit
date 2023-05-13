@@ -1,0 +1,42 @@
+
+##teamcity[testCount count='6' flowId='6400']
+
+##teamcity[testSuiteStarted name='ListaNumerica Tests' flowId='6400']
+
+##teamcity[testSuiteStarted name='ListaNumericaTest' locationHint='php_qn://C:\Users\cg3010252\Documents\PHPProjects\ENGA5\tests\ListaNumericaTest.php::\ListaNumericaTest' flowId='6400']
+
+##teamcity[testSuiteStarted name='testQuantidadeDeValores' locationHint='php_qn://C:\Users\cg3010252\Documents\PHPProjects\ENGA5\tests\ListaNumericaTest.php::\ListaNumericaTest::testQuantidadeDeValores' flowId='6400']
+
+##teamcity[testStarted name='testQuantidadeDeValores with data set "Quantidade vazia"' locationHint='php_qn://C:\Users\cg3010252\Documents\PHPProjects\ENGA5\tests\ListaNumericaTest.php::\ListaNumericaTest::testQuantidadeDeValores with data set "Quantidade vazia"' flowId='6400']
+
+##teamcity[testFinished name='testQuantidadeDeValores with data set "Quantidade vazia"' duration='5' flowId='6400']
+
+##teamcity[testStarted name='testQuantidadeDeValores with data set "Quantidade menor que 4"' locationHint='php_qn://C:\Users\cg3010252\Documents\PHPProjects\ENGA5\tests\ListaNumericaTest.php::\ListaNumericaTest::testQuantidadeDeValores with data set "Quantidade menor que 4"' flowId='6400']
+
+##teamcity[testFinished name='testQuantidadeDeValores with data set "Quantidade menor que 4"' duration='0' flowId='6400']
+
+##teamcity[testStarted name='testQuantidadeDeValores with data set "Quantidade e intervalo valido"' locationHint='php_qn://C:\Users\cg3010252\Documents\PHPProjects\ENGA5\tests\ListaNumericaTest.php::\ListaNumericaTest::testQuantidadeDeValores with data set "Quantidade e intervalo valido"' flowId='6400']
+
+##teamcity[testFinished name='testQuantidadeDeValores with data set "Quantidade e intervalo valido"' duration='0' flowId='6400']
+
+##teamcity[testSuiteFinished name='testQuantidadeDeValores' flowId='6400']
+
+##teamcity[testSuiteStarted name='testValores' locationHint='php_qn://C:\Users\cg3010252\Documents\PHPProjects\ENGA5\tests\ListaNumericaTest.php::\ListaNumericaTest::testValores' flowId='6400']
+
+##teamcity[testStarted name='testValores with data set "Quantidade vazia"' locationHint='php_qn://C:\Users\cg3010252\Documents\PHPProjects\ENGA5\tests\ListaNumericaTest.php::\ListaNumericaTest::testValores with data set "Quantidade vazia"' flowId='6400']
+
+##teamcity[testFinished name='testValores with data set "Quantidade vazia"' duration='0' flowId='6400']
+
+##teamcity[testStarted name='testValores with data set "Valor menor que 10000"' locationHint='php_qn://C:\Users\cg3010252\Documents\PHPProjects\ENGA5\tests\ListaNumericaTest.php::\ListaNumericaTest::testValores with data set "Valor menor que 10000"' flowId='6400']
+
+##teamcity[testFinished name='testValores with data set "Valor menor que 10000"' duration='0' flowId='6400']
+
+##teamcity[testStarted name='testValores with data set "Uma letra"' locationHint='php_qn://C:\Users\cg3010252\Documents\PHPProjects\ENGA5\tests\ListaNumericaTest.php::\ListaNumericaTest::testValores with data set "Uma letra"' flowId='6400']
+
+##teamcity[testFinished name='testValores with data set "Uma letra"' duration='0' flowId='6400']
+
+##teamcity[testSuiteFinished name='testValores' flowId='6400']
+
+##teamcity[testSuiteFinished name='ListaNumericaTest' flowId='6400']
+
+##teamcity[testSuiteFinished name='ListaNumerica Tests' flowId='6400']
